@@ -18,6 +18,6 @@
 - alexisw@caltech.edu
 - alexiswang55.github.io
 
-[<img src="https://github.com/E-CoolPuppy/E-CoolPuppy/blob/main/socials/linkedin.png?raw=true" height="40em" align="center" alt="Follow Alexis on LinkedIn" title="Follow Alexis on LinkedIn"/>](https://linkedin.com/in/alexiswang55)
+[<img src="https://github.com/E-CoolPuppy/E-CoolPuppy/blob/main/socials/linkedin.png?raw=true" height="40em" align="center" alt="Follow Alexis on LinkedIn" title="Follow Alexis on LinkedIn"/>](https://linkedin.com/in/alexis-wang55)
 [<img src="https://raw.githubusercontent.com/E-CoolPuppy/E-CoolPuppy/80f8395c6ab5ee776abc565aa94d023f43900078/socials/twitter.svg" height="40em" align="center" alt="Follow Alexis on Twitter" title="Follow Alexis on Twitter"/>](https://twitter.com/alexiswang55)
 [<img src="https://github.com/E-CoolPuppy/E-CoolPuppy/blob/main/socials/medium.png?raw=true" height="40em" align="center" alt="Follow Alexis on Medium" title="Follow Alexis on Medium"/>](https://alexiswang55.medium.com/)
