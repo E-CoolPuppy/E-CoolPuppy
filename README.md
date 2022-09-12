@@ -33,3 +33,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=E-CoolPuppy.E-CoolPuppy&left_color=grey&right_color=blue)
 Thanks for visiting (myself included) ✌️
+
+<br>  
+Last Updated: September 12, 2022
