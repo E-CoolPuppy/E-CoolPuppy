@@ -11,7 +11,10 @@
 - 🤔 I’m looking for SWE internships for 2023 and what to do after college.
 - 💬 Ask me about CS, attending the Tapia Conference in DC, writing, anime, and most importantly, NYC vs. California.
 - ⚡ Fun fact: I created this username in high school when I was desparate to find one that wasn't taken.
+- ⚡⚡ Another Fun Fact: I'm a certified Emergency Medical Responder (EMR).
 
+## 🌈 Languages
+<img src="https://img.shields.io/badge/-python-orange" height=25> <img src="https://img.shields.io/badge/-MATLAB-blue" height=25> <img src="https://img.shields.io/badge/-C-brightgreen" height=25> <img src="https://img.shields.io/badge/-HTML/CSS-red" height=25>
 
 ## 📫 How to Reach Me
 - alexiswang55@gmail.com
