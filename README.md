@@ -6,15 +6,15 @@
 
 - 😄 Pronouns: she/her
 - ✨ Brooklyn, NY
-- 🔭 I’m currently an undergraduate junior at Caltech studying CS.
-- 🌱 Last summer, I was an EDG intern at MathWorks building custom charts and components! 
-- 🤔 I’m looking for SWE internships for 2023 and what to do after college.
+- 🔭 I’m currently an undergraduate senior at Caltech studying CS.
+- 🌱 Last summer, I was an EDG intern at MathWorks building custom charts and components. This summer, I'm a SWE intern at SeatGeek.
+- 🤔 I’m looking for full time SWE roles for 2024 and what to do after college.
 - 💬 Ask me about CS, attending the Tapia Conference in DC, writing, anime, and most importantly, NYC vs. California.
 - ⚡ Fun fact: I created this username in high school when I was desparate to find one that wasn't taken.
 - ⚡⚡ Another Fun Fact: I'm a certified Emergency Medical Responder (EMR).
 
 ## 🌈 Languages
-<img src="https://img.shields.io/badge/-python-orange" height=25> <img src="https://img.shields.io/badge/-MATLAB-blue" height=25> <img src="https://img.shields.io/badge/-C-brightgreen" height=25> <img src="https://img.shields.io/badge/-HTML/CSS-red" height=25>
+<img src="https://img.shields.io/badge/-python-orange" height=25> <img src="https://img.shields.io/badge/-MATLAB-blue" height=25> <img src="https://img.shields.io/badge/-C-brightgreen" height=25> <img src="https://img.shields.io/badge/-HTML/CSS-red" height=25> <img src="https://img.shields.io/badge/Javascript-yellow" height=25> <img alt="Static Badge" src="https://img.shields.io/badge/OCaml-brown" height=25>
 
 ## 📫 How to Reach Me
 - alexiswang55@gmail.com
@@ -34,8 +34,8 @@
 <a href="https://www.youtube.com/channel/UCqeg4UzjKcZGvvrsz_jr8tQ"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=E-CoolPuppy.E-CoolPuppy&left_color=grey&right_color=blue)
+![Visitor Count](https://profile-counter.glitch.me/E-CoolPuppy/count.svg)
 Thanks for visiting (myself included) ✌️
 
 <br>  
-Last Updated: September 12, 2022
+Last Updated: July 11, 2023
