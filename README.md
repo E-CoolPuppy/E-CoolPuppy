@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: she/her
 - ✨ Brooklyn, NY
-- 🔭 I’m currently an undergraduate senior at Caltech studying CS.
+- 🔭 I’m currently an undergraduate senior at Caltech studying CS and English.
 - 🌱 Last summer, I was an EDG intern at MathWorks building custom charts and components. This summer, I'm a SWE intern at SeatGeek.
 - 🤔 I’m looking for full time SWE roles for 2024 and what to do after college.
 - 💬 Ask me about CS, attending the Tapia Conference in DC, writing, anime, and most importantly, NYC vs. California.
