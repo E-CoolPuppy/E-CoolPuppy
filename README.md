@@ -18,7 +18,6 @@
 
 ## 📫 How to Reach Me
 - alexiswang55@gmail.com
-- alexisw@caltech.edu
 - alexiswang55.github.io
 
 <!--
